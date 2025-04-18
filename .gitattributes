@@ -1,0 +1,5 @@
+# Force consistent line endings
+*.java text=auto
+*.bat text eol=crlf
+*.sh text eol=lf
+*.json text=auto
