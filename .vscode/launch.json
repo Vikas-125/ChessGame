@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ChessApplication",
+            "request": "launch",
+            "mainClass": "com.chessgame.ChessApplication",
+            "projectName": "ChessGame_a3127037"
+        },
+        {
+            "type": "java",
+            "name": "Launch Chess Game",
+            "request": "launch",
+            "mainClass": "com.chessgame.ChessApplication",
+            "projectName": "ChessGame"
+        }
+    ]
+}
